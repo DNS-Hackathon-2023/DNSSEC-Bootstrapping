@@ -4,5 +4,3 @@
 #- NS #pass a new rootZone
 
 #using algorithm 8 	RSA/SHA-256 	RSASHA256
-
-#- DNS Signaling/resolving/Find, Replace, Store RequiredRecords;
