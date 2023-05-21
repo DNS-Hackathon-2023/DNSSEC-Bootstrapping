@@ -1,0 +1,17 @@
+/home/b0b24ce0/Documents/DNS Hackathon 2023/bin/Debug/net6.0/DNS Hackathon 2023
+/home/b0b24ce0/Documents/DNS Hackathon 2023/bin/Debug/net6.0/DNS Hackathon 2023.deps.json
+/home/b0b24ce0/Documents/DNS Hackathon 2023/bin/Debug/net6.0/DNS Hackathon 2023.runtimeconfig.json
+/home/b0b24ce0/Documents/DNS Hackathon 2023/bin/Debug/net6.0/DNS Hackathon 2023.dll
+/home/b0b24ce0/Documents/DNS Hackathon 2023/bin/Debug/net6.0/DNS Hackathon 2023.pdb
+/home/b0b24ce0/Documents/DNS Hackathon 2023/obj/Debug/net6.0/DNS Hackathon 2023.csproj.AssemblyReference.cache
+/home/b0b24ce0/Documents/DNS Hackathon 2023/obj/Debug/net6.0/DNS Hackathon 2023.GeneratedMSBuildEditorConfig.editorconfig
+/home/b0b24ce0/Documents/DNS Hackathon 2023/obj/Debug/net6.0/DNS Hackathon 2023.AssemblyInfoInputs.cache
+/home/b0b24ce0/Documents/DNS Hackathon 2023/obj/Debug/net6.0/DNS Hackathon 2023.AssemblyInfo.cs
+/home/b0b24ce0/Documents/DNS Hackathon 2023/obj/Debug/net6.0/DNS Hackathon 2023.csproj.CoreCompileInputs.cache
+/home/b0b24ce0/Documents/DNS Hackathon 2023/obj/Debug/net6.0/DNS Hackathon 2023.dll
+/home/b0b24ce0/Documents/DNS Hackathon 2023/obj/Debug/net6.0/refint/DNS Hackathon 2023.dll
+/home/b0b24ce0/Documents/DNS Hackathon 2023/obj/Debug/net6.0/DNS Hackathon 2023.pdb
+/home/b0b24ce0/Documents/DNS Hackathon 2023/obj/Debug/net6.0/DNS Hackathon 2023.genruntimeconfig.cache
+/home/b0b24ce0/Documents/DNS Hackathon 2023/obj/Debug/net6.0/ref/DNS Hackathon 2023.dll
+/home/b0b24ce0/Documents/DNS Hackathon 2023/bin/Debug/net6.0/DnsClient.dll
+/home/b0b24ce0/Documents/DNS Hackathon 2023/obj/Debug/net6.0/DNS Hackathon 2023.csproj.CopyComplete
