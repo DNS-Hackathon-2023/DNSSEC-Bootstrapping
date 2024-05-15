@@ -1,6 +1,0 @@
-#Required Records: #
-#- DS #Record to identify the Dnssec signing key of a delegated zone
-#- DNSKey #KeyRecord in Dnssec (same format as Key Record)
-#- NS #pass a new rootZone
-
-#using algorithm 8 	RSA/SHA-256 	RSASHA256
